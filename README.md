@@ -36,5 +36,8 @@ This is a simple C language program designed to rename files within a specified 
 
 - James Hill
 
-Feel free to modify this program according to your needs or contribute to its improvement by submitting pull requests or opening issues.
+
+![Screenshot from 2024-04-04 12-45-30](https://github.com/jhill1971/file_renaming_utility/assets/60713038/b8c37053-1c1d-4247-b8e9-8a58410c9f12)
+
+![Screenshot from 2024-04-04 12-47-50](https://github.com/jhill1971/file_renaming_utility/assets/60713038/a4799da2-9b8d-45e7-8eb6-6f3decf2da34)
 
